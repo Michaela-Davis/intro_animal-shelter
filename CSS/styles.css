@@ -1,0 +1,44 @@
+body {
+
+}
+
+h1 {
+  color: darkcyan;
+  font-stretch: semi-condensed;
+  font-weight: lighter;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+img {
+  width: 250px;
+}
+
+.header h1 {
+  color: teal;
+  font-stretch: semi-expanded;
+  font-weight: bold;
+  font-size: 45px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.disclaimer {
+  color: black;
+  font-size: 80%;
+  font-style: italic;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: teal;
+}
+
+.column {
+  width: 250px;
+  float: left;
+}
